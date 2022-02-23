@@ -1,4 +1,4 @@
-name: Custom Action
+name: Pipeline
 
 on: [push]
 
